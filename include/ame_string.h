@@ -4,6 +4,7 @@
 typedef struct {
   char *data;
   int length;
+  int index;
 } ame_string;
 
 int get_string_length(ame_string string);

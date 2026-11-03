@@ -4,7 +4,7 @@
 int main(void) {
   ame_string string = {
     .data = "Hellos",
-    .length = 4,
+    .length = 6,
   };
 
   printf("%s\n", string.data);

@@ -1,0 +1,15 @@
+/Users/terrel/Projects/ame_string/tests/cs_tests/bin/Debug/net10.0/tests
+/Users/terrel/Projects/ame_string/tests/cs_tests/bin/Debug/net10.0/tests.deps.json
+/Users/terrel/Projects/ame_string/tests/cs_tests/bin/Debug/net10.0/tests.runtimeconfig.json
+/Users/terrel/Projects/ame_string/tests/cs_tests/bin/Debug/net10.0/tests.dll
+/Users/terrel/Projects/ame_string/tests/cs_tests/bin/Debug/net10.0/tests.pdb
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.AssemblyInfoInputs.cache
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.AssemblyInfo.cs
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.csproj.CoreCompileInputs.cache
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.sourcelink.json
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.dll
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/refint/tests.dll
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.pdb
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/tests.genruntimeconfig.cache
+/Users/terrel/Projects/ame_string/tests/cs_tests/obj/Debug/net10.0/ref/tests.dll
